@@ -30,3 +30,5 @@
    * Write article about BFS
    * Write article about Jetpack Compose (series)
 3. Study Pre - Course AI from boost camp
+
+![Newon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newon-universe&show_icons=true&theme=swift)
