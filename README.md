@@ -24,8 +24,8 @@
   
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">  
   
-![Newon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newon-universe&theme=radical&show_icons=true) 
-ﾠ[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chokovon)](https://solved.ac/chokovon)
+<!-- ![Newon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newon-universe&theme=radical&show_icons=true) 
+ﾠ[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chokovon)](https://solved.ac/chokovon) -->
 
   
   -----
