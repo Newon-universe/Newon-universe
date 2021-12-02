@@ -32,10 +32,11 @@
   
   <br/>
 
-### Monthly Goals ( ~ 11.30 )
+### Monthly Goals ( ~ 12.30 )
 1. Done Jetpack Compose Lab code
 2. Make Jekyll blog
    * Write article about BFS
-   * Write article about Jetpack Compose (series)
+   * Write articles about Jetpack Compose (series)
+   * write articles about AI Pre Course (series)
 3. Study Pre - Course AI from boost camp
-4. Breakthrough into Gold (Backjoon Algorithm)
+4. Breakthrough into Gold 2 (Backjoon Algorithm)
