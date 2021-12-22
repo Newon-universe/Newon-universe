@@ -14,7 +14,7 @@
   <br/>
   
  ### ✨ My condition  
-   - 🌱 I'm currently attending DevFest 2021 Android Compose.  
+<!--    - 🌱 I'm currently attending DevFest 2021 Android Compose.   -->
    - 🎐 I'm currently learning Algorithms, Jetpack Compose and Basics about AI.  
    - 📑 I'm between jobs to Android programmer.  
 
@@ -32,7 +32,7 @@
   
   <br/>
 
-### Monthly Goals ( ~ 12.30 )
+### Monthly Goals ( ~ 12.31 )
 1. Done Jetpack Compose Lab code
 2. Make Jekyll blog
    * Write article about BFS
