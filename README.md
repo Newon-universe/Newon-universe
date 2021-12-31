@@ -4,7 +4,7 @@
   
  ## Hi there 👋  
 
- Good day ! I am Yewon Kim who is interested in **Android App** from South Korea.  
+ Good day ! I am Yewon Kim who is interested in **Mobile App Developer** from South Korea.  
  If you want to contact me, please leave me a message or email :)
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://newon-universe.github.io/)](https://newon-universe.github.io/)
@@ -24,19 +24,17 @@
   
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">  
   
-<!-- ![Newon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newon-universe&theme=radical&show_icons=true) 
-ﾠ[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chokovon)](https://solved.ac/chokovon) -->
-
-  
   -----
   
   <br/>
 
 ### Monthly Goals ( ~ 12.31 )
-1. Done Jetpack Compose Lab code
-2. Make Jekyll blog
-   * Write article about BFS
+1. Manage a blog
    * Write articles about Jetpack Compose (series)
    * write articles about AI Pre Course (series)
-3. Study Pre - Course AI from boost camp
-4. Breakthrough into Gold 2 (Backjoon Algorithm)
+   * One Topic from Algorithm
+2. Breakthrough into Gold 2 (Backjoon Algorithm)
+  
+
+![Newon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newon-universe&theme=radical&show_icons=true) 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chokovon)](https://solved.ac/chokovon)
