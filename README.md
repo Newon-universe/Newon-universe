@@ -28,8 +28,8 @@
   
   <br/>
 
-### Monthly Goals ( ~ 12.31 )
-1. Manage a blog
+### Monthly Goals ( ~ 01.31 )
+1. Manage the blog
    * Write articles about Jetpack Compose (series)
    * write articles about AI Pre Course (series)
    * One Topic from Algorithm
