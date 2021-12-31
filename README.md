@@ -36,5 +36,5 @@
 2. Breakthrough into Gold 2 (Backjoon Algorithm)
   
 
-![Newon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newon-universe&theme=radical&show_icons=true) 
+<!-- ![Newon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newon-universe&theme=radical&show_icons=true)  -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chokovon)](https://solved.ac/chokovon)
