@@ -16,6 +16,7 @@
  ### ✨ My condition  
 <!--    - 🌱 I'm currently attending DevFest 2021 Android Compose.   -->
    - 🎐 I'm currently learning Algorithms, Jetpack Compose, MVVM pattern and Basics about AI.  
+   - 🌱 I'm currently attending short term project work (~ May)
    - 📑 I'm between jobs to Android programmer.  
 
   <br/>
