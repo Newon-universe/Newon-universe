@@ -7,7 +7,7 @@
  Good day ! I am Yewon Kim who is interested in **Mobile App Developer** from South Korea.  
  If you want to contact me, please leave me a message or email :)
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://newon-universe.github.io/)](https://newon-universe.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://newon-universe.github.io/)](https://velog.io/@newon-seoul)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chokovon@gmail.com)](mailto:chokovon@gmail.com)
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) -->
 
