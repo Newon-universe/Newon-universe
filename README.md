@@ -15,10 +15,10 @@
   
  ### ✨ My condition  
 <!--    - 🌱 I'm currently attending DevFest 2021 Android Compose.   -->
-   - 🎐 I'm currently learning Algorithms, CS, Swift.  
-   - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Jetpack Compose!
+   - 🎐 I'm currently studying Algorithms, CS, Swift.  
+   - 👨‍💻 Mostly working on 🌱Android Kotlin Jetpack Compose🌱 !
 <!--    - 🌱 I'm currently attending short term project work (~ May) -->
-<!--    - 📑 I'm between jobs to Android programmer.   -->
+   - 📑 I'm currently remote worker as a Android programmer.  
 
   <br/>
   
