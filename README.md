@@ -15,7 +15,7 @@
   
  ### ✨ My condition  
 <!--    - 🌱 I'm currently attending DevFest 2021 Android Compose.   -->
-   - 🎐 I'm currently studying Algorithms, CS, Swift.  
+   - 🎐 I'm currently studying iOS - SwiftUI, Algorithms, CS.  
    - 👨‍💻 I'm remote worker as a Android programmer.  
    - 📑 Mostly working on 🌱Android - Kotlin - Jetpack Compose🌱 !
 
@@ -23,7 +23,7 @@
   
  ### Skills
   
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">  
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">  
   
   -----
 
