@@ -16,7 +16,6 @@
  ### ✨ My condition  
 <!--    - 🌱 I'm currently attending DevFest 2021 Android Compose.   -->
    - 🎐 I'm currently studying iOS - SwiftUI, Algorithms, CS.  
-   - 👨‍💻 I'm remote worker as a Android programmer.  
    - 📑 Mostly working on 🌱Android - Kotlin - Jetpack Compose🌱 !
 
   <br/>
