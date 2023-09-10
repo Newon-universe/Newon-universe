@@ -15,7 +15,7 @@
   
  ### ✨ My condition  
 <!--    - 🌱 I'm currently attending DevFest 2021 Android Compose.   -->
-   - 🎐 I'm currently studying CI/CD with AppCenter.  
+   - 🎐 I'm studying CI/CD with Fastlane & Github actions.  
    - 📑 Mostly working on 🌱iOS - Swift - SwiftUI🌱 !
  
   <br/>
