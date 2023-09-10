@@ -4,7 +4,7 @@
   
  ## Hi there 👋  
 
- Good day ! I am Yewon Kim who is interested in **Mobile App Developer** from South Korea.  
+ Good day ! I am Yewon Kim is interested in **Mobile App Developer** from Korea.  
  If you want to contact me, please leave me a message or email :)
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://newon-universe.github.io/)](https://velog.io/@newon-seoul)
